@@ -15,11 +15,10 @@
 
 ## 🔧 Skills & Languages
 
-| Frontend | Backend | Systems |
-| -------- | -------- | -------- |
-| HTML / CSS | PHP | C / C++ |
-| JavaScript | — | Kotlin |
-| — | Java | — |
+- **Languages:** C++, Java, Python, JavaScript
+- **Tools:** Git, VS Code
+- **Databases:** MySQL, SQLite
+- **Concepts:** Object-oriented programming, data structures, algorithms, basic system design
 
 ---
 
