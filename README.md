@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Kent (TheAmazingTurtle)
+# Hello, I'm Kent Francis (TheAmazingTurtle) ✨
 
-🧪 CS student and self-taught coder passionate about building projects and learning new technologies!
+I am a BS Computer Science student at the University of the Philippines Visayas. I focus on software development and problem solving. I have strong foundations in data structures, algorithms, and OOP.
 
----
+## 🔧 Technical Skills
 
-## 🛠 About Me
+**Programming & Game Development** \
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) \
+**Web & Mobile** \
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) \
+**Tools & Environment** \
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 I’m currently working on personal projects and improving my coding skills.
-- 🌱 I’m learning systems programming, web development, and software fundamentals.
-- 💬 Ask me about C, HTML/CSS, JavaScript, Java, Kotlin, or any beginner & mid-level coding topics.
-- ⚡ Fun fact: I enjoy making things *turtle-powered* 🐢 (just like my username)!
+## 🚀 Current Projects
+- **myCondo** – A 2D logic-based arcade game that integrates concepts from the binary system and bitwise operations into fast-paced gameplay.
+- **Pixel Origins** - A puzzle-based adventure game in Godot.
 
----
+## 📊 My Stats
 
-## 🔧 Skills & Languages
+![theamazingturtle github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=theamazingturtle)
 
-- **Languages:** C++, Java, Python, JavaScript
-- **Tools:** Git, VS Code
-- **Databases:** MySQL, SQLite
-- **Concepts:** Object-oriented programming, data structures, algorithms, basic system design
-
----
-
-## 📁 Featured Projects
-
-Here are a few highlights:
-
-- **CMSC-125 Operating System Project** – Systems-level C code  
-- **Dodge-a-Bit (C++)** – A fun interactive project  
-- **Web Projects (HTML/CSS/JS)** – Frontend practice and deployments
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kent-francis-genilo-49aa02329/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kentgenilo0504@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/858633798345031690)
