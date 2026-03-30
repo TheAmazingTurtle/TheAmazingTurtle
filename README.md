@@ -20,7 +20,7 @@ I am a BS Computer Science student at the University of the Philippines Visayas.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🚀 Current Projects
-- **myCondo** – A condiminium management mobile application.
+- **myCondo** – A condominium management mobile application.
 - **Pixel Origins** - A puzzle-based adventure game in Godot.
 
 ## 📊 My Stats
