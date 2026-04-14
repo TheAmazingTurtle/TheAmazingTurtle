@@ -25,7 +25,7 @@ I am a BS Computer Science student at the University of the Philippines Visayas.
 
 ## 📊 My Stats
 
-![theamazingturtle github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=theamazingturtle)
+![theamazingturtle github-stats](https://github-readme-streak-stats.herokuapp.com/?user=TheAmazingTurtle&theme=black-ice)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kent-francis-genilo-49aa02329/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kentgenilo0504@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/858633798345031690)
