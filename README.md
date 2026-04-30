@@ -52,7 +52,7 @@ A puzzle-based adventure game developed in **Godot**, combining exploration, pro
 ---
 
 ## 📊 GitHub Stats
-
+![Contributions](https://github-readme-stats.vercel.app/api?username=TheAmazingTurtle)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheAmazingTurtle&theme=black-ice)
 
 ---
